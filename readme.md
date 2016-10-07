@@ -10,6 +10,13 @@ email:srestaswrnm@gmail.com or phone: 9813004402. So that, we can minimize the p
 
 Thank you for the contribution in advance. You can just simply edit a "donors.json" for adding names of donors. The data should be formatted as previous one and the number should be just incrementing. You can contriute to javascript file and index.html or add more the better experience of needy ones.
 
+Format:
+      "<number>":{
+        "name": "<name>",
+        "blood_group" : "<blood group>",
+        "contact" : "<contact number>",
+        "address" : "<address>"
+      }
 ##Fork
 ##Pull Request
 ##Contribute

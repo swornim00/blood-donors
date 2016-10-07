@@ -10,6 +10,12 @@
     "blood_group" : "B +ve",
     "contact" : "9851197645",
     "address" : "Kathmandu"
+  },
+  "3":{
+    "name": "Sunil Shrestha",
+    "blood_group" : "O +ve",
+    "contact" : "9849283036",
+    "address" : "Kathmandu"
   }
 
 }
