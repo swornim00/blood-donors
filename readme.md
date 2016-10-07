@@ -8,8 +8,7 @@ email:srestaswrnm@gmail.com or phone: 9813004402. So that, we can minimize the p
 
 #How to contribute?
 
-Thank you for the contribution in advance.  There is a folder docs, which contains the files.You can just simply edit a "donors.json" for
-adding names of donors. The data should be formatted as previous one and the number should be just incrementing.
+Thank you for the contribution in advance. You can just simply edit a "donors.json" for adding names of donors. The data should be formatted as previous one and the number should be just incrementing. You can contriute to javascript file and index.html or add more the better experience of needy ones.
 
 ##Fork
 ##Pull Request
