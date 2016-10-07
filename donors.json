@@ -1,14 +1,9 @@
 {
   "1":{
-    "name" : "Pranish Shrestha",
-    "blood_group" : "AB+",
-    "contact": "9818276249"
-  },
-
-  "2":{
     "name" : "Swornim Shrestha",
-    "blood_group" : "AB+",
-    "contact": "9818276249"
-  }
+    "blood_group" : "A+",
+    "contact": "9813004402",
+    "address":"Chautara, Sindhupalchok"
+  },
 
 }
