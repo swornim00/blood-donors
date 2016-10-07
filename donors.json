@@ -1,9 +1,15 @@
 {
   "1":{
     "name" : "Swornim Shrestha",
-    "blood_group" : "A+",
+    "blood_group" : "A +ve",
     "contact": "9813004402",
     "address":"Chautara, Sindhupalchok"
+  },
+  "2":{
+    "name": "Prabesh Adhikari",
+    "blood_group" : "B +ve",
+    "contact" : "9851197645",
+    "address" : "Kathmandu"
   }
 
 }
