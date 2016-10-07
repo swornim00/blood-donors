@@ -1,27 +1,25 @@
-# Laravel PHP Framework
+Blood Donors List In Nepal
+--------------------------
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+This is a repository that contains the information about the blood donors in Nepal. This would probably help needy ones to get blood when they need. This project has a page [Donor's Page](https://bravegurkha.github.io/blood-donors/) where you can get information about blood donors. If there is any problem with the information being provided at the respective page then please email at srestaswrnm[at]gmail[dot]com or contact directly in phone: 9813004402. You may also create an issue for it.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+How to contribute?
+-------------------
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Thank you for the contribution in advance. You can just simply edit a **donors.json** for adding names of donors. The data should be formatted as previous one and the number should be just incremented. You can contriute to javascript file and index.html or add more the better experience of needy ones.
 
-## Official Documentation
+Format:
+```json
+"<number>": {
+    "name": "<name>",
+    "blood_group" : "<blood group>",
+    "contact" : "<contact number>",
+    "address" : "<address>"
+}
+```
+TODO
+----
+- Create dashboard to add/remove/update donor information
+- Add sign up page for blood donors
+- Add blood donation events page
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
